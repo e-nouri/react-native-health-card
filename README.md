@@ -1,4 +1,6 @@
-# React Native Health Card 🏥💳
+# React Native Card 💳
+
+Fork of react-native-health-card, that i changed to use only the generic card type for my own requirements, feel free to contribute if you need it to be more generic.
 
 [![npm badge](https://nodei.co/npm/react-native-health-card.png?downloads=true&stars=true)](https://npmjs.org/package/react-native-health-card)
 
